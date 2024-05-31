@@ -1,5 +1,5 @@
 # vat
-R-code for reproducing Figures 3 and 4 in an article entitled:
+R-code for reproducing Figures 3 in an article entitled:
 
 "Is Sales Tax Included in the Price? Consumer Inattention and Price Competition"
 
