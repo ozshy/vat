@@ -1,7 +1,7 @@
 # vat
 R-code for reproducing Figures 3 in an article entitled:
 
-"Is Sales Tax Included in the Price? Consumer Inattention and Price Competition"
+"Is Sales Tax Included in the Price? How Consumer Inattention Affects Prices"
 
 By, Oz Shy
 
