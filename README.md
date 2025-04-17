@@ -3,6 +3,8 @@ R-code for reproducing Figures 2 and 3 in an article entitled:
 
 "Is Sales Tax Included in the Price? How Consumer Inattention Affects Prices"
 
+https://ssrn.com/abstract=4794108 
+
 By, Oz Shy
 
 The R-code "vat_2025_mm_dd.R" draws Figures 2 and 3 in the paper. To use this code, follow 2 steps: (i) Initially, run the entire R-code (from start to end) to ensure that all parameters are defined. (ii) Then, if you are using R-Studio, you can use bookmarks to access the particular Figure or Table that you wish to simulate.
